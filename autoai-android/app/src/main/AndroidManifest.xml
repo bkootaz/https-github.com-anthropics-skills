@@ -7,7 +7,7 @@
         android:name=".AutoAiApp"
         android:allowBackup="true"
         android:label="AutoAI"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@android:drawable/sym_def_app_icon"
         android:theme="@style/Theme.AutoAI"
         android:networkSecurityConfig="@xml/network_security_config"
         android:usesCleartextTraffic="true">
