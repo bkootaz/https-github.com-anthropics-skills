@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoAI Assistant</string>
+    <string name="accessibility_service_description">Voice activation service for AutoAI Assistant. This service listens for wake words and activates the assistant even when the screen is locked.</string>
+    <string name="voice_activation_notification_title">AutoAI Assistant</string>
+    <string name="voice_activation_notification_text">Listening for wake words...</string>
+    <string name="wake_word_detected">Wake word detected!</string>
+    <string name="listening">Listening...</string>
+    <string name="speaking">Speaking...</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="wake_word_instructions">Say \'Hey Assistant\' or \'Hello Assistant\' to activate</string>
+    <string name="permission_required">Permission required</string>
+    <string name="microphone_permission_required">Microphone permission is required for voice activation</string>
+    <string name="device_admin_required">Device admin access is required to override lock screen</string>
+    <string name="accessibility_service_required">Accessibility service is required for voice activation</string>
+</resources>
